@@ -28,7 +28,7 @@ To run this project locally or test it in your browser:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tab-title-viewer.git
+git clone https://github.com/rkrahul21/chrome-extension1
 
 1. cd tab-title-viewer
 
@@ -45,7 +45,7 @@ git clone https://github.com/your-username/tab-title-viewer.git
 
     Click Load Unpacked
 
-    Select the dist/ directory
+    Select the dist/
 
     Pin the extension from the toolbar (optional)
 
