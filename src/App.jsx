@@ -24,7 +24,7 @@ function App() {
 
 
   const refreshTitle = () => {
-    setTitle(''); // Clears the tab title
+    setTitle(''); 
   };
 
 
